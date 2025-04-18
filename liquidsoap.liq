@@ -1,4 +1,4 @@
-s = playlist("playlist")
+s = playlist("playlist.txt")
 output.icecast(%mp3,
   host = "icecast",
   port = 8000,
